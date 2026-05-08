@@ -47,10 +47,10 @@ A complete backend system managing **orders, payments, and workflows**.
 ## 🛠️ Tech Stack
 
 Node.js • NestJS • Express  
-PostgreSQL • MongoDB  
+PostgreSQL • MongoDB • MySQL 
 Prisma • TypeORM  
 JWT • OAuth • Encryption  
-Docker • Swagger • Stripe  
+Docker • Swagger • Stripe • n8n 
 
 ---
 
@@ -68,3 +68,4 @@ Building backend systems that are:
 
 Email: obaydafarow@gmail.com  
 LinkedIn: www.linkedin.com/in/abdelrahman-mohie-dev
+Phone: +20 1094790608
