@@ -43,16 +43,16 @@ Complete backend for restaurant operations and payments.
 ---
 
 ## 🛠️ Tech Stack
-Node.js • NestJS • Express
-PostgreSQL • MongoDB • MySQL
-Prisma • TypeORM • Mongoose
-JWT • OAuth • AES Encryption
-Docker • Swagger • Stripe • n8n
-Railway • Render • Vercel
+Node.js • NestJS • Express  
+PostgreSQL • MongoDB • MySQL  
+Prisma • TypeORM • Mongoose  
+JWT • OAuth • AES Encryption  
+Docker • Swagger • Stripe • n8n  
+Railway • Render • Vercel  
 
 ---
 
 ## 📫 Contact
-🌐 mohie-dev.vercel.app
-📧 obaydafarow@gmail.com
-💼 linkedin.com/in/abdelrahman-mohie-dev
+🌐 mohie-dev.vercel.app  
+📧 obaydafarow@gmail.com  
+💼 linkedin.com/in/abdelrahman-mohie-dev  
