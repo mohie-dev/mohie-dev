@@ -2,9 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+and+DevOps+Engineer;Node.js+%26+NestJS+Developer;AWS+Certified;Learning+DevOps)](https://git.io/typing-svg)
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6E40C9,100:2575FC&height=180&section=header&text=Mohie&fontSize=44&fontColor=ffffff&animation=twinkling" width="100%" />
-</p>
 
 ## 👨‍💻 About Me
 
