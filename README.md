@@ -92,21 +92,16 @@ AI & Automation
 
 ## 🤝 Connect With Me
 
-<p align="left">
-
-<a href="mailto:obaydafarow@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/abdelrahman-mohie-dev/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/mohie-dev" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://mohie-dev.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
+<p>
+  <a href="mailto:obaydafarow@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mohie-dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://mohie-dev.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Portfolio" />
+  </a>
 </p>
 
 ---
